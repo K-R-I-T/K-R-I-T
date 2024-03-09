@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hello there, you can call me Krit.
 
 <!--
 **K-R-I-T/K-R-I-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
